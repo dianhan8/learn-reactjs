@@ -6,7 +6,7 @@ export default function App() {
     <div>
       <div className="header">
         <div>
-          <h3 className="header-title poppins-semibold">TODO LIST</h3>
+          <h3 className="header-title poppins-semibold">To Do List App</h3>
         </div>
       </div>
 
