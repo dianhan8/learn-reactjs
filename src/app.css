@@ -86,3 +86,12 @@
     align-items: center;
     justify-content: center;
 }
+
+.todos {
+    display: grid;
+}
+
+.todo-item {
+    padding: 22px 24px;
+    box-shadow: 0px 6px 10px 0px #0000001A;
+}
